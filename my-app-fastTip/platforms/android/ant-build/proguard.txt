@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:35
+-keep class org.traeg.phonegap.FastTip.PG3FasTip { <init>(...); }
+
