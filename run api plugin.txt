@@ -1,0 +1,7 @@
+Missing steps -
+
+In the root folder (which contains the www, js, css folders)
+phonegap plugin add org.apache.cordova.contacts
+phonegap plugin add org.apache.cordova.camera
+phonegap plugin add org.apache.cordova.geolocation
+etc.
